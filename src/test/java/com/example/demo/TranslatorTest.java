@@ -17,6 +17,8 @@ class TranslatorTest
     }
 
     @Test
-    void leygenitt(){}
+    void leygenitt(){
+        assertTrue(true);
+    }
 
 }
