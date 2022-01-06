@@ -12,7 +12,7 @@ class TranslatorTest
     void testReturnCorrectNumberForSingleCharacter(){
 
         String input = "I";
-        assertTrue(translator.translate(input).equals(1));
+        assertTrue(translator.translate(input).equals("1"));
 
     }
 
